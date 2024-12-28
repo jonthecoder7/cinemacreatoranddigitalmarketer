@@ -214,6 +214,13 @@ Have you used the theme in your website? Send a PR to add it to the list for ins
 	<tbody>
 		<tr>
             <td align="center">
+                <a href="https://github.com/jonthecoder7">
+                    <img src="https://avatars.githubusercontent.com/u/138704487?v=4" width="100;" alt="jonthecoder7"/>
+                    <br />
+                    <sub><b>jonthecoder7</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/zetxek">
                     <img src="https://avatars.githubusercontent.com/u/240085?v=4" width="100;" alt="zetxek"/>
                     <br />
@@ -248,6 +255,8 @@ Have you used the theme in your website? Send a PR to add it to the list for ins
                     <sub><b>D. Corto</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/oaksakal">
                     <img src="https://avatars.githubusercontent.com/u/453038?v=4" width="100;" alt="oaksakal"/>
@@ -255,8 +264,6 @@ Have you used the theme in your website? Send a PR to add it to the list for ins
                     <sub><b>Ozgur Aksakal</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/Ceesaxp">
                     <img src="https://avatars.githubusercontent.com/u/67934?v=4" width="100;" alt="Ceesaxp"/>
@@ -292,6 +299,8 @@ Have you used the theme in your website? Send a PR to add it to the list for ins
                     <sub><b>LeahWilleke</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/evolutionise">
                     <img src="https://avatars.githubusercontent.com/u/6320469?v=4" width="100;" alt="evolutionise"/>
